@@ -18,10 +18,6 @@ To access this project, your system needs the following software -
 ### Running the application
 To run the application locally, you need to run the `AssessedExercise.java` through the above-mentioned IDE.
 
-To run the application remotely, you need to run the `RemoteSubmit.java` through the above-mentioned IDE.
- * To run on the full corpus, replace line no. 35 with - `boolean registerOk = RealizationEngineClient.registerApplication(args[0], args[1], "bdaefull");`
- * Else, to run on sample corpus, replave line no. 35 with - `boolean registerOk = RealizationEngineClient.registerApplication(args[0], args[1], "bdae");`
-
 ### Maintainers
 * Tejas Kundu
 
