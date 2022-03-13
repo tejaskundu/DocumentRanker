@@ -23,9 +23,7 @@ To run the application remotely, you need to run the `RemoteSubmit.java` through
  * Else, to run on sample corpus, replave line no. 35 with - `boolean registerOk = RealizationEngineClient.registerApplication(args[0], args[1], "bdae");`
 
 ### Maintainers
-* Tejas Kundu - https://stgit.dcs.gla.ac.uk/2647799k
-* Garima Ashok Devnani - https://stgit.dcs.gla.ac.uk/2653434d
-* Najmath Ummer - https://stgit.dcs.gla.ac.uk/2639140u (najmathu8@gmail.com)
+* Tejas Kundu
 
 #### Supporting professors at organization:
 * Richard Mccreadie - https://stgit.dcs.gla.ac.uk/RichardMccreadie
