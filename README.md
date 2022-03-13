@@ -20,6 +20,7 @@ To run the application locally, you need to run the `AssessedExercise.java` thro
 
 ### Maintainers
 * Tejas Kundu
+* Garima Ashok Devnani
 
 #### Supporting professors at organization:
 * Richard Mccreadie - https://stgit.dcs.gla.ac.uk/RichardMccreadie
